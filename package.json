@@ -1,0 +1,18 @@
+{
+  "name": "expressjssample",
+  "version": "1.0.0",
+  "description": "sample express js program that would be installed in hiroko",
+  "main": "ExpressExampleSlashSyntax.js",
+  "scripts": {
+    "test": "nodemon run Expres"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Sujith Babu",
+  "license": "MIT",
+  "dependencies": {
+    "Express": "^3.0.1",
+    "express": "^4.15.3"
+  }
+}
