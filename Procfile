@@ -1,1 +1,1 @@
-web: nodemon ExpressExampleSlashSyntax.js
+web: node ExpressExampleSlashSyntax.js
